@@ -1,0 +1,17 @@
+{
+  "name": "webcon_anonymous_form",
+  "version": "1.0.0",
+  "description": "Template of NodeJS application that utilize WEBCON BPS REST API to display data, and create a new workflow element.",
+  "main": "server.js",
+  "author": "",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "devDependencies": {}
+}
